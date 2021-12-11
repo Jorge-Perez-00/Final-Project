@@ -35,16 +35,12 @@ I downloaded the csv files for all 4 datasets directly from the NYC OpenData web
 
 
 # Citations
-### NYPD Complaints Dataset
-- [Link](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i?ref=hackernoon.com)
-### NYPD Calls for Service
-- [Link](https://data.cityofnewyork.us/Public-Safety/NYPD-Calls-for-Service-Historic-/d6zx-ckhd)
-### NYPD Arrests Dataset
-- [Link](https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u)
-### NYPD Shooting Indicents Dataset
-- [Link](https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Historic-/833y-fsy8)
+- [NYPD Complaints Dataset](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i?ref=hackernoon.com)
+- [NYPD Calls for Service](https://data.cityofnewyork.us/Public-Safety/NYPD-Calls-for-Service-Historic-/d6zx-ckhd)
+- [NYPD Arrests Dataset](https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u)
+- [NYPD Shooting Indicents Dataset](https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Historic-/833y-fsy8)
 ### Python Review/Documentation
-- [Link](https://www.geeksforgeeks.org/)
-- [Link](https://pandas.pydata.org/docs/)
-- [Link](https://stackoverflow.com/)
+- [Geeksforgeeks](https://www.geeksforgeeks.org/)
+- [Pandas documentation](https://pandas.pydata.org/docs/)
+- [Stackoverflow](https://stackoverflow.com/)
 
