@@ -34,3 +34,17 @@ I downloaded the csv files for all 4 datasets directly from the NYC OpenData web
 ![Shootings](docs/assets/Shooting Indicents - Predictions (Yearly).png)
 
 
+# Citations
+### NYPD Complaints Dataset
+- [Link](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i?ref=hackernoon.com)
+### NYPD Calls for Service
+- [Link](https://data.cityofnewyork.us/Public-Safety/NYPD-Calls-for-Service-Historic-/d6zx-ckhd)
+### NYPD Arrests Dataset
+- [Link](https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u)
+### NYPD Shooting Indicents Dataset
+- [Link](https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Historic-/833y-fsy8)
+### Python Review/Documentation
+- [Link](https://www.geeksforgeeks.org/)
+- [Link](https://pandas.pydata.org/docs/)
+- [Link](https://stackoverflow.com/)
+
