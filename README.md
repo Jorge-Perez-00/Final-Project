@@ -33,6 +33,9 @@ I downloaded the csv files for all 4 datasets directly from the NYC OpenData web
 ![Arrests](docs/assets/NYPD Arrests - Predictions (Yearly).png)
 ![Shootings](docs/assets/Shooting Indicents - Predictions (Yearly).png)
 
+# Results/Conclusions
+The datasets showed that the Bronx is still one of the dangerous boroughs out of the 5 but it is not the “most” dangerous one. The most dangerous borough out of the 5 boroughs of New York City is Brooklyn. Brooklyn has much higher yearly and monthly counts than the other 4 boroughs in each dataset. When exploring the yearly counts for each dataset, the Bronx is either the second or third borough with the highest counts, but there has been a few times in the monthly counts where the Bronx passed Brooklyn in counts. For example, in the shooting incidents dataset, the Bronx has had a higher count of shooting incidents than Brooklyn many times between 2012 and 2018. Overall, each dataset and the future predictions of each dataset shows that the criminal activity has been slowly decreasing and the Bronx borough is following the same decreasing patterns. In the end, I learned that the Bronx borough is not the top dangerous borough of New York City and that Staten Island is the safest borough of New York City.
+
 
 # Citations
 - [NYPD Complaints Dataset](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i?ref=hackernoon.com)
