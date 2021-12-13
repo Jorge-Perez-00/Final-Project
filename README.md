@@ -1,3 +1,5 @@
+![NYC Map](docs/assets/nyc_map.png)
+
 # Overview
 As a long time resident of the Bronx I’ve known that the Bronx was considered a dangerous place for a long time and for that reason I wanted to explore whether or not the Bronx should still be considered one of the top dangerous boroughs of New York City. For this project I used 4 datasets from the official NYC OpenData website and applied data science techniques through the Python programming language and extracted the information and knowledge that accurately showcases the patterns of criminal activity in New York City. The Python tools that I used to explore the datasets were Pandas, Numpy, Matplotlib, and Sklearn.                                       
 
